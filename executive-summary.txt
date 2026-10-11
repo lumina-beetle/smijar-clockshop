@@ -1,8 +1,8 @@
 Assignment name: Assignment 1
 TCSS 305 C: Programming Practicum, Winter 2023
 
-Name: Your name
-UWNetID: yourNetID 
+Name: Sergio Leonel Mijares Carrasco
+UWNetID: smijar
 
 
 Assignment Overview:

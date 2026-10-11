@@ -10,6 +10,7 @@
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">bundled-sun-checks</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">bundled-google-checks</ConfigurationLocation>
+        <ConfigurationLocation id="03dd10ec-e9c1-466e-9efc-80fe9c3083cc" type="LOCAL_FILE" scope="All" description="tcss-305-newline">$USER_HOME$/Downloads/tcss305_checkstyle_nextline.xml</ConfigurationLocation>
         <ConfigurationLocation id="2e0401b8-f6c6-4a66-ba9a-8aff2302060e" type="LOCAL_FILE" scope="All" description="tcss305">$PROJECT_DIR$/tcss305_checkstyle_sameline.xml</ConfigurationLocation>
       </list>
     </option>
